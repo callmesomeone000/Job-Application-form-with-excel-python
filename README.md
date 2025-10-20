@@ -6,7 +6,9 @@ A Python GUI application built using **Tkinter** that allows users to fill out j
 - Modern dark-themed GUI  
 - Input fields for name, contact, age, qualification, and more  
 - Saves all entries to `Job_Applications.xlsx`  
-- Buttons with hover and border effects  
+- Buttons with hover and border effects
+  <img width="1056" height="784" alt="image" src="https://github.com/user-attachments/assets/d314a5fc-c84d-49ae-94e0-102cbcccecd5" />
+
 
 ## 🧠 Requirements
 - Python 3.x  
